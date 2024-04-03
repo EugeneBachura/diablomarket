@@ -1,0 +1,4 @@
+<svg class="mr-1" width="7" height="7" viewBox="0 0 7 7" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <image width="7" height="7" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAX1JREFUOE9tkjtLA0EUhc+djZhKUqTID7AMZPMQNhGLgJjGztgpYiEIYmehYKWF/gMhFhYWFoq9D0ijmxjNZgOipZ2WEgkaQ5gru3nsw73NMmfOxxnOXULANJr6FkssC8KaquZqQR7yi6ZZnZOQVwO9xyw20kmt5Pd5wFqtFguN4QOQAMmRl4DSWGhiMx6Pd4eiBzQa1XNAFP2gbSbcdn/EgqZpX/3jYAyzcgSmdSdGfoOggzHrPJOq3Q4VLNgGbQjch1jYH0mYyajandHUb4JgempWUoL5AUDIVcBhSs3tWOdGoxxhGn8FEHMnk9HUH8HI+FrrKMRTicT0s2HqBwC2nXu7tD0qv5XDkVb4mMFLPtgAcO1Ag5ZZXKSSuUVXOfe7AO0HLbuvWaB4aX3+JvL5fM+7DqNahJCnAMJ9o2feFaKC9XzPOoaWuqnPE/gE4KiDibZCnB1CgaAl1uv6JCmyAiAKiDaDVtJq9tKd/+9fHSVbcEieKaBVd9Lw/g/Xio2EdWQHmAAAAABJRU5ErkJggg=="/>
+</svg>
+    

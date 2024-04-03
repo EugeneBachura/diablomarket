@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+gray {
+    color: #9b9b9b;
+}
+olive {
+    color: #bab0a3;
+}
+gold {
+    color: #ff0;
+}
