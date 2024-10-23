@@ -7,3 +7,19 @@ DiabloMarket is a prototype platform for trading in-game items from Diablo, buil
 - **Models and Controllers**: Necessary models, migrations, and controller templates for elixirs, gems, and initial setups for equipment and weapons are in place.
 - **User Authentication**: Standard authentication with registration, login, and profile editing.
 
+## Installation
+To set up the project locally.
+
+
+Clone the repository and install the dependencies via Composer:
+```bash
+composer install
+```
+Run migrations to set up the database:
+```bash
+php artisan migrate
+```
+Serve the application:
+```bash
+php artisan serve
+```
