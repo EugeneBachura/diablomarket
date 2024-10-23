@@ -34,3 +34,6 @@ The following features are planned but not yet fully implemented:
  - **Displaying All Advertisements**: A view to show all item listings.
  - **Filtering Options**: Filtering items based on their type, rarity, and other attributes.
  - **Item Purchase and Rating**: Users will be able to purchase items from other users and leave a rating at the end of the transaction.
+
+## Contributions
+This project is for fun and is not a commercial application. While updates might be infrequent, feel free to reach out if you'd like to contribute or expand the project. Feedback, ideas, and pull requests are welcome.
